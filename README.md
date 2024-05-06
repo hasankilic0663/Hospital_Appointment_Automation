@@ -2,6 +2,8 @@
 ----------------------------------------------------------
 #Hastane Randevu  Otomasyon Projesi ->HASAN HÜSEYİN KILIÇ
 ----------------------------------------------------------
+https://www.linkedin.com/posts/hasan-h%C3%BCseyin-kili%C3%A7-368439228_proje-otomasyon-tasaraftm-activity-7022152953771831296-r-FE?utm_source=share&utm_medium=member_desktop
+
 
 #Proje Açıklaması:
 ----------------------------------------------------------
