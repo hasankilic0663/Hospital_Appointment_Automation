@@ -5,6 +5,10 @@
 https://www.linkedin.com/posts/hasan-h%C3%BCseyin-kili%C3%A7-368439228_proje-otomasyon-tasaraftm-activity-7022152953771831296-r-FE?utm_source=share&utm_medium=member_desktop
 
 
+https://github.com/hasankilic0663/Hospital_Appointment_Automation/assets/101570706/1c7af069-7b12-4f55-853e-78ddb5acbf8c
+
+
+
 #Proje Açıklaması:
 ----------------------------------------------------------
 
